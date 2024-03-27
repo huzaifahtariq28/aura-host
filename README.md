@@ -13,7 +13,7 @@ Welcome to Aura Host - a pioneering front-end cloud hosting platform designed to
 
 ### Installation:
 
-To get started with the sandbox:
+To get started with the project:
 
 1. Clone the repository:
 
